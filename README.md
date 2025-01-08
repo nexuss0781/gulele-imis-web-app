@@ -1,3 +1,5 @@
+/!\ DISCONTINUED SINCE 24.10 /!\
+
 # openIMIS Web Application
 
 The openIMIS Web Application is the main component of the openIMIS infrastructure.
