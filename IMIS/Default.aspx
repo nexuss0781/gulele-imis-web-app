@@ -28,7 +28,7 @@ In case of dispute arising out or in relation to the use of the program, it is s
 
 <html xmlns="http://www.w3.org/1999/xhtml" >
 <head runat="server">
-    <title>Login</title>
+    <title>Gulele District IMIS - Login</title>
       <noscript>
   <META http-equiv="refresh" content="1;url=nojs.htm" />
   </noscript>

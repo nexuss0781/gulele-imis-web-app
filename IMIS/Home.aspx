@@ -22,7 +22,7 @@ sustained by you or third parties or a failure of the program to operate with an
 advised of the possibility of such damages.
 
 In case of dispute arising out or in relation to the use of the program, it is subject to the public law of Switzerland. The place of jurisdiction is Berne.--%>
-<%@ Page Language="vb" AutoEventWireup="false"  MasterPageFile="~/IMIS.Master" CodeBehind="Home.aspx.vb" Inherits="IMIS.Home" title="IMIS"%>
+<%@ Page Language="vb" AutoEventWireup="false"  MasterPageFile="~/IMIS.Master" CodeBehind="Home.aspx.vb" Inherits="IMIS.Home" title="Gulele District IMIS - Insurance Management Information System"%>
 <%@ Register assembly="AjaxControlToolkit" namespace="AjaxControlToolkit" tagprefix="ajax" %>
 <asp:Content ID="HeadContent" ContentPlaceHolderID="head" Runat="Server">
     <script type="text/javascript" >
@@ -131,8 +131,10 @@ In case of dispute arising out or in relation to the use of the program, it is s
         distributed under a royalty-free license
         <br />
         by courtesy of the copyright owner
+        <br />
+        <strong>Customized for Gulele District, Addis Ababa, Ethiopia</strong>
     </div>
     <div style="position: absolute; bottom: 23px; right: 0px; margin-right:10px; margin-bottom:10px">
-        <img src="Images/logo.png" alt="IMIS" style="max-width: 250px;" />
+        <img src="Images/logo.png" alt="Gulele District IMIS" style="max-width: 250px;" />
     </div>
 </asp:Content>
